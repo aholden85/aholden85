@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heya! 👋 I intermittently create/update these repositories whenever I have the time and interest outside of my normal work.
 
 <!--
 **aholden85/aholden85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
